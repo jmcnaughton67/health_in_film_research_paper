@@ -1,0 +1,51 @@
+Optometry
+Ophthalmology
+Retina
+Cornea
+Lens
+Pupil
+Iris
+Macula
+Glaucoma
+Cataract
+Myopia (nearsightedness)
+Hyperopia (farsightedness)
+Astigmatism
+Presbyopia
+Conjunctivitis (pink eye)
+Diabetic retinopathy
+Macular degeneration
+Retinal detachment
+Amblyopia (lazy eye)
+Strabismus (crossed eyes)
+Dry eye syndrome
+Keratitis
+Uveitis
+Blepharitis
+Optic neuritis
+Contact lenses
+Glasses
+Refractive surgery (e.g., LASIK)
+Visual acuity
+Visual field test
+Color blindness
+Night blindness
+Eye floaters
+Tears and tear ducts
+Orbit (eye socket)
+Sclera
+Intraocular pressure
+Visual cortex
+Eyelid
+Eyebrow and eyelashes
+Optic nerve
+Pterygium
+Corneal ulcer
+Trachoma
+Ocular hypertension
+Ocular migraine
+Eye drops
+Fundus photography
+Tonometry (eye pressure test)
+Visual impairment
+Blindness

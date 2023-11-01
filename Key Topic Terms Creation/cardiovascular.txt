@@ -1,0 +1,58 @@
+Cardiology
+Heart
+Arteries
+Veins
+Capillaries
+Aorta
+Ventricles
+Atria
+Heartbeat
+Blood pressure
+Hypertension
+Hypotension
+Cholesterol
+Atherosclerosis
+Arrhythmia
+Atrial fibrillation
+Angina
+Myocardial infarction (heart attack)
+Coronary artery disease
+Cardiomyopathy
+Heart failure
+Valvular heart disease
+Mitral valve prolapse
+Aortic stenosis
+Endocarditis
+Pericarditis
+Cardiac catheterization
+Electrocardiogram (ECG or EKG)
+Echocardiogram
+Coronary angiography
+Pacemaker
+Defibrillator
+Cardiac ablation
+Bypass surgery
+Angioplasty
+Stent placement
+Deep vein thrombosis (DVT)
+Pulmonary embolism
+Stroke
+Congenital heart defects
+Cardiac arrest
+Cardiopulmonary resuscitation (CPR)
+Heart transplantation
+Vascular surgery
+Peripheral artery disease
+Cardiac rehabilitation
+Anticoagulant therapy
+Bradycardia
+Tachycardia
+Edema
+Heart murmur
+Aneurysm
+Cardiovascular risk factors
+Dyslipidemia
+Systolic and diastolic pressure
+Venous insufficiency
+Cardiac output
+Palpitations

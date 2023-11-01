@@ -1,0 +1,56 @@
+Oncology
+Tumor
+Malignant
+Benign
+Metastasis
+Carcinogen
+Chemotherapy
+Radiation therapy
+Immunotherapy
+Hormone therapy
+Biopsy
+Mammography
+Cancer staging
+Tumor marker
+Oncogene
+Tumor suppressor gene
+Lumpectomy
+Mastectomy
+Remission
+Relapse
+Surgical oncology
+Palliative care
+Hematologic cancers
+Leukemia
+Lymphoma
+Myeloma
+Solid tumors
+Carcinoma
+Sarcoma
+Melanoma
+Adenoma
+Radiosurgery
+Targeted therapy
+Stem cell transplant
+Bone marrow transplant
+Cancer screening
+BRCA genes
+Colorectal cancer
+Prostate cancer
+Breast cancer
+Lung cancer
+Cervical cancer
+Chemoprevention
+Cancer vaccine
+Tumor microenvironment
+Angiogenesis
+Neoplasm
+Paraneoplastic syndrome
+Cancer genetics
+Prognosis
+Oncovirus
+Radiation oncology
+PET scan
+MRI for cancer
+Cancer epidemiology
+Multidisciplinary care

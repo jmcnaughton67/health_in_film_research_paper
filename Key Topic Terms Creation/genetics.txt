@@ -1,0 +1,54 @@
+DNA
+RNA
+Gene
+Chromosome
+Genome
+Genotype
+Phenotype
+Allele
+Mutation
+Genetic drift
+Recessive
+Dominant
+Heterozygous
+Homozygous
+Epigenetics
+Transcription
+Translation
+Replication
+Genetic code
+Codon
+Intron
+Exon
+Splicing
+Telomere
+Mendelian inheritance
+Polygenic traits
+Genetic linkage
+Crossing over
+Punnett square
+Pedigree analysis
+Genetic counseling
+Genetic testing
+Karyotype
+Single nucleotide polymorphism (SNP)
+Genome-wide association study (GWAS)
+CRISPR-Cas9
+Gene therapy
+Cloning
+Recombinant DNA
+Gene expression
+Quantitative trait loci
+Population genetics
+Mitochondrial DNA
+Genetic engineering
+Genetic diversity
+Genomic imprinting
+Chromosomal aberration
+Sex-linked traits
+Knockout organisms
+Transgenic organisms
+Molecular genetics
+Human Genome Project
+DNA sequencing
+Genomic medicine
